@@ -4,7 +4,7 @@
 
 With use of below code you can create AR demo app at your end. You just need to follow below steps 
 
-# Installation
+# Installation & setup
  - Add below plugins in your project. 
 ```sh
 dependencies:   arcore_flutter_plugin: ^0.0.2+2
