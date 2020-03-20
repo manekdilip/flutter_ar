@@ -108,4 +108,4 @@ import 'package:vector_math/vector_math_64.dart' as vector;
 
 - Thank you for the reading
 
--You can read more details on our blog. [Build Augmented Reality (AR) application in Flutter by Manektech](https://www.manektech.com/blog/build-augmented-reality-ar-application-in-flutter)
+- You can read more details on our blog. [Build Augmented Reality (AR) application in Flutter by Manektech](https://www.manektech.com/blog/build-augmented-reality-ar-application-in-flutter)
